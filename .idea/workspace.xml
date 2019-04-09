@@ -34,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/lab2_pt1_eq3.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="8" />
+              <selected id="1" />
             </state>
           </provider>
         </entry>
@@ -172,12 +172,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554821126838</updated>
-      <workItem from="1554821128005" duration="15432000" />
+      <workItem from="1554821128005" duration="17633000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15432000" />
+    <option name="totallyTimeSpent" value="17633000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -193,7 +193,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1795422" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13948497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -237,7 +237,7 @@
     <entry file="file://$PROJECT_DIR$/lab2_pt1_eq3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="8" />
+          <selected id="1" />
         </state>
       </provider>
     </entry>
