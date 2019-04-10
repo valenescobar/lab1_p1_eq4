@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6931566b-6a55-45aa-827f-8edea15d5d90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab2_pt1_eq3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_pt1_eq3.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/lab2_pt1_eq3.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="12" />
+              <selected id="8" />
             </state>
           </provider>
         </entry>
@@ -185,12 +184,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554821126838</updated>
-      <workItem from="1554821128005" duration="35071000" />
+      <workItem from="1554821128005" duration="35359000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35071000" />
+    <option name="totallyTimeSpent" value="35359000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -257,7 +256,7 @@
     <entry file="file://$PROJECT_DIR$/lab2_pt1_eq3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="12" />
+          <selected id="8" />
         </state>
       </provider>
     </entry>
