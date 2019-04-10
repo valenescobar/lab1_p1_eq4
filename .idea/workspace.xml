@@ -34,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/lab2_pt1_eq3.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="16" />
+              <selected id="35" />
             </state>
           </provider>
         </entry>
@@ -176,12 +176,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554821126838</updated>
-      <workItem from="1554821128005" duration="39642000" />
+      <workItem from="1554821128005" duration="41525000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39642000" />
+    <option name="totallyTimeSpent" value="41525000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -255,7 +255,7 @@
     <entry file="file://$PROJECT_DIR$/lab2_pt1_eq3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="16" />
+          <selected id="35" />
         </state>
       </provider>
     </entry>
