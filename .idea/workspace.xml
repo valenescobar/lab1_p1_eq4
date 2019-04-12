@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6931566b-6a55-45aa-827f-8edea15d5d90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1_pt1_eq4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab1_pt1_eq4.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab2_pt1_eq3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_pt1_eq3.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -181,12 +179,12 @@
       <workItem from="1554821128005" duration="41939000" />
       <workItem from="1554956192658" duration="202000" />
       <workItem from="1554956997244" duration="4000" />
-      <workItem from="1554987789830" duration="22702000" />
+      <workItem from="1554987789830" duration="23543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64847000" />
+    <option name="totallyTimeSpent" value="65688000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -199,6 +197,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20171674" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
